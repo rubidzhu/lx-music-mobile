@@ -1,0 +1,15 @@
+{
+
+  "rewrites": [
+
+    {
+
+      "source": "/api/:match*",
+
+      "destination": "https://zhuzhu-music-api.vercel.app/:match*"
+
+    }
+
+  ]
+
+}
